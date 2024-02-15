@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "openthread_client.h": "c",
+        "coap_client_utils.h": "c",
+        "coap_client.h": "c",
+        "ot_coap_client.h": "c",
+        "log.h": "c"
+    }
+}
